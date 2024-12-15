@@ -1,12 +1,6 @@
 import './Header.css'
 import MenuItems from "./Cards"
 import React from 'react'
-import ReactDOM from 'react-dom/client'
-
-const root = ReactDOM.createRoot(document.getElementById('root'));
-
-
-
 
 // function Header(){
 //     return(
@@ -75,5 +69,5 @@ class Menu extends React.Component{
     }
 }
 
-root.render(<Menu />)
+
 export default Menu
