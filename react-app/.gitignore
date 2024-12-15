@@ -11,6 +11,7 @@ node_modules
 dist
 dist-ssr
 *.local
+npmreact-app
 
 # Editor directories and files
 .vscode/*

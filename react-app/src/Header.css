@@ -1,0 +1,18 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.header{
+    width: 100%;
+    padding: 30px !important;
+    top: 0;
+    left: 0;
+    position: fixed !important;
+    z-index: 1;
+}
+.cards{
+    display: flex;
+    gap:20px;
+}
+
